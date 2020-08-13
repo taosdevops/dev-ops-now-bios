@@ -7,6 +7,7 @@
 - [Robert R. Meyer](./team-members/rmeyer-taos.md)
 - [Matt Martinez](./team-members/matt-taos.md)
 - [Danny Seymour](./team-members/dseymour.md)
+- [Lindsey Stanton](./team-members/lstanton-taos.md)
 
 # Github Pages:
 https://taosdevops.github.io/dev-ops-now-bios/
