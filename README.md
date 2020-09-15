@@ -8,6 +8,7 @@
 - [Matt Martinez](./team-members/matt-taos.md)
 - [Danny Seymour](./team-members/dseymour.md)
 - [Lindsey Stanton](./team-members/lstanton-taos.md)
+- [Gretchen Shelby-Dormer](./team-members/gshelbydormer-taos.md)
 
 # Github Pages:
 https://taosdevops.github.io/dev-ops-now-bios/
