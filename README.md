@@ -3,7 +3,7 @@
 - [Adam McChesney](./team-members/amcchesney-taos.md)
 - [Austin Earl](./team-members/aearl0530.md)
 - [Carissa Morrow](./team-members/cmorrowTaos.md)
-- [Danny Seymour](./team-members/dseymour.md)
+- [Chakshu Tandon](./team-members/ctandon.md)
 - [Gretchen Shelby-Dormer](./team-members/gshelbydormer-taos.md)
 - [Jane Miceli](./team-members/jmiceli-taos.md)
 - [Lindsey Stanton](./team-members/lstanton-taos.md)
