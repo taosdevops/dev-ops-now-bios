@@ -12,6 +12,9 @@
 - [Gretchen Shelby-Dormer](./team-members/gshelbydormer-taos.md)
 - [Peter Ferriola](./team-members/pferriola.md)
 - [Taylor Morgan](./team-members/tmorgan-taos.md)
+- [Chakshu Tandon](./team-members/ctandon.md)
+- [Dustin Davisson](./team-members/ddavisson-taos.md)
+
 
 # Github Pages:
 https://taosdevops.github.io/dev-ops-now-bios/
