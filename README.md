@@ -9,7 +9,6 @@
 - [Lindsey Stanton](./team-members/lstanton-taos.md)
 - [Matt Martinez](./team-members/matt-taos.md)
 - [Pamela Lagos](./team-members/plagos-taos.md)
-- [Peter Ferriola](./team-members/pferriola.md)
 - [Robert R. Meyer](./team-members/rmeyer-taos.md)
 - [Taylor Morgan](./team-members/tmorgan-taos.md)
 
