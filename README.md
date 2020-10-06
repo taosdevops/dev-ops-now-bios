@@ -2,6 +2,7 @@
 - [Adam McChesney](./team-members/amcchesney-taos.md)
 - [Austin Earl](./team-members/aearl0530.md)
 - [Carissa Morrow](./team-members/cmorrowTaos.md)
+- [Chakshu Tandon](./team-members/ctandon.md)
 - [Jane Miceli](./team-members/jmiceli-taos.md)
 - [Pamela Lagos](./team-members/plagos-taos.md)
 - [Robert R. Meyer](./team-members/rmeyer-taos.md)
@@ -10,8 +11,10 @@
 - [Lindsey Stanton](./team-members/lstanton-taos.md)
 - [Gretchen Shelby-Dormer](./team-members/gshelbydormer-taos.md)
 - [Peter Ferriola](./team-members/pferriola.md)
+- [Taylor Morgan](./team-members/tmorgan-taos.md)
 - [Chakshu Tandon](./team-members/ctandon.md)
 - [Dustin Davisson](./team-members/ddavisson-taos.md)
+
 
 # Github Pages:
 https://taosdevops.github.io/dev-ops-now-bios/
