@@ -1,0 +1,7 @@
+I grew up around my older brother who was constantly getting into trouble for taking apart computers he shouldn't have, so I learned pretty quickly from his mistakes; meaning that I got caught less. I got into IT as a career after moving to Boise, and have avidly been trying to learn more and find more technical positions to challenge me since then. I still view myself as a newbie at most things, but am a fast learner. My first introduction to automation was my job as a call center supervisor. I had gotten tired of all the mindless paperwork thats foisted upon the average supervisor everyday, so I wrote a few lines of AppleScript to make them do themselves. After that every lead in my department was asking me to do stuff and I was hooked. 
+
+I've spent the last few years assisting the Taos Onboarding team by writing and maintaining their automation repository, mostly comprised of Powershell. Im completely self taught, so I'm sure I'll have a few bad habits that I'm open to correcting should someone notice them. 
+
+When away from work, I love playing video games with my roommate or hiking the foothills and mountains. I enjoy brewing my own mead, wine, and hard kombucha. 
+
+Github: lkaufmantaos
