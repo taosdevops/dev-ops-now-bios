@@ -13,6 +13,7 @@
 - [Robert R. Meyer](./team-members/rmeyer-taos.md)
 - [Taylor Morgan](./team-members/tmorgan-taos.md)
 - [Lee Kaufman](./team-members/lkaufmantaos.md)
+- [Andrew Reeves](./team-members/areeves-taos.md)
 
 # Github Pages:
 https://taosdevops.github.io/dev-ops-now-bios/
