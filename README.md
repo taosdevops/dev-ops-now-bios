@@ -16,6 +16,7 @@
 - [Robert R. Meyer](./team-members/rmeyer-taos.md)
 - [Taylor Morgan](./team-members/tmorgan-taos.md)
 - [Harloveleen Kaur](./team-members/hkaur.md)
+- [Aditya Pandit] (./team-members/apandit.md)
 
 
 # Github Pages:
