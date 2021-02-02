@@ -6,7 +6,6 @@
 - [Carissa Morrow](./team-members/cmorrowTaos.md)
 - [Chakshu Tandon](./team-members/ctandon.md)
 - [Dustin Davisson](./team-members/ddavisson-taos.md)
-- [Jane Miceli](./team-members/jmiceli-taos.md)
 - [Lee Kaufman](./team-members/lkaufmantaos.md)
 - [Lindsey Stanton](./team-members/lstanton-taos.md)
 - [Matt Martinez](./team-members/matt-taos.md)
