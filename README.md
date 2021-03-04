@@ -14,6 +14,7 @@
 - [Taylor Morgan](./team-members/tmorgan-taos.md)
 - [Harloveleen Kaur](./team-members/hkaur.md)
 - [Aditya Pandit](./team-members/apandit.md)
+- [Avneesh Kumar](./team-members/akumar.md)
 
 
 # Github Pages:
