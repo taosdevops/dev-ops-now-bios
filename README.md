@@ -14,7 +14,7 @@
 - [Harloveleen Kaur](./team-members/hkaur.md)
 - [Aditya Pandit](./team-members/apandit.md)
 - [Avneesh Kumar](./team-members/akumar.md)
-
+- [Cody Howard](./team-members/choward-taos.md)
 
 # Github Pages:
 https://taosdevops.github.io/dev-ops-now-bios/
