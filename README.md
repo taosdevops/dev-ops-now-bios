@@ -1,3 +1,9 @@
+# Deprecation Notice
+
+This repo was migrated to https://github.com/Taos-DevOps-NOW/dev-ops-now-bios
+
+For more information: [Confluence](https://taoscloud.atlassian.net/wiki/spaces/DON/pages/2141519875/Github+Org+Migration)
+
 # Members
 
 - [Andrew Reeves](./team-members/areeves-taos.md)
